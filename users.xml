@@ -1,0 +1,84 @@
+<!-- Authentication Manager -->
+<authentication-manager alias="authenticationManager">
+  <authentication-provider>
+    <user-service>
+	<user name="user1" password="pgyjvsrx" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user2" password="gqsddmuh" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user3" password="ftvpqezn" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user4" password="dptdvquk" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user5" password="byakdfen" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user6" password="sfuaxjfy" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user7" password="ryxzvjaz" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user8" password="yaezbrpv" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user9" password="bqzxuhdk" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user10" password="rerycdkt" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user11" password="dyuqbfjz" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user12" password="germxvwa" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user13" password="jzdgbntc" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user14" password="ghzpwvet" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user15" password="ejunmtqu" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user16" password="geukmadw" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user17" password="zqyxpecu" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user18" password="vkmhfyjb" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user19" password="fmsbttcd" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user20" password="nwxrydkg" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user21" password="ktcmrdgu" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user22" password="pzwpvxce" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user23" password="jrcqwnde" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user24" password="dxzbvfva" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user25" password="webpsxtf" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user26" password="yzvxsdcv" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user27" password="trjmddhs" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user28" password="vawrxuvn" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user29" password="tqunjuds" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user30" password="vgbvanzk" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user31" password="sfmydcjn" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user32" password="hfkdpguh" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user33" password="rfbtkujq" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user34" password="hmvbssak" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user35" password="evjcdgkg" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user36" password="vwcgndkm" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user37" password="hnmqaudr" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user38" password="pejabrqd" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user39" password="ucgpsnhg" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user40" password="gznemcvk" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user41" password="fcxzamgk" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user42" password="ugxeqsdj" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user43" password="vthquqkd" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user44" password="svsdbghc" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user45" password="yupawkcd" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user46" password="baqesjdw" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user47" password="pfetamsq" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user48" password="esdwujmh" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user49" password="qeadpbxt" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user50" password="buyvstak" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user51" password="advjbpjz" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user52" password="xpdhmyzu" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user53" password="vxwrbfmc" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user54" password="rseeaqth" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user55" password="xdbzcyvp" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user56" password="wzayddqx" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user57" password="nymkuxzp" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user58" password="stxredrm" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user59" password="vbunsedx" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user60" password="dbfukpqq" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user61" password="mtrvpfne" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user62" password="wazervud" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user63" password="mfjxnvpz" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user64" password="ufhmrctf" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user65" password="fwahtrum" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user66" password="ujercgxm" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user67" password="ejbymrkg" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user68" password="zsygbctk" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user69" password="yvghnqtu" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user70" password="fvtmgzbv" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user71" password="msbtyqjp" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user72" password="uaxsrjce" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user73" password="uprwhdqd" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user74" password="bndajkwm" authorities="ROLE_WEBGOAT_USER" />
+	<user name="user75" password="yntqfarh" authorities="ROLE_WEBGOAT_USER" />
+      <user name="webgoat" password="TrustFoundry7" authorities="ROLE_WEBGOAT_ADMIN" />
+    </user-service>
+  </authentication-provider>
+</authentication-manager>  
+  
